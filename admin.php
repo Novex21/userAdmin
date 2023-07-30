@@ -39,7 +39,7 @@ $_SESSION['csrf'] = $token;
 
       <?php if(isset($_GET['populate'])) :?>
         <div class="alert alert-success">
-          Population Done....
+          Population Done.....
         </div>
       <?php endif ?>
 
